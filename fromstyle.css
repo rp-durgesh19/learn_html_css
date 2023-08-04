@@ -1,0 +1,10 @@
+input[type = "text"]{
+    color: red;
+    background: aqua;
+}
+input[type="password"]{
+    color: pink;
+}
+body{
+    align-items: center;
+}

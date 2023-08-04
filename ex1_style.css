@@ -1,0 +1,33 @@
+/* body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    background:#acacac;
+}
+.blog{
+    background: #2d2d2d;
+}
+.heading_color{
+    color: rgb(19, 151, 19);
+}
+span{
+    color: red;
+    background-color: aqua;
+} */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #acacac;
+}
+article{
+    background: #2d2d2d;
+}
+.heading_color{
+    color: rgb(19, 151, 19);
+}
+span{
+    color: red;
+    background-color: aqua;
+}
